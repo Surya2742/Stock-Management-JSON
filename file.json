@@ -1,0 +1,12 @@
+[  
+    {  
+        "StockName":"Remi Metals",
+        "NumberOfShare":"20",
+        "SharePrice":"150"
+    },
+    {  
+        "StockName":"Rajeev Fasteners",
+        "NumberOfShare":"14",
+        "SharePrice":"77"
+    }
+]
